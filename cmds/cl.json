@@ -1,0 +1,8 @@
+{
+    "commands" :
+    [{
+        "h": "Help",
+        "upd": "Update",
+        "gw": "Guesswhat"
+    }]
+}
