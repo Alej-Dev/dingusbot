@@ -136,3 +136,5 @@ async def gps():
     stat.set_footer(text='\u200b',icon_url="https://m.media-amazon.com/images/M/MV5BODk4N2UzNTAtZDU1ZS00MWJhLTk1ZmQtMzM5MmMxZTFlZWJjXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_.jpg")
     
     await channel.send(embed=stat)
+
+bot.run("MTIwNTk2OTYwMjI0MTM2ODE2NA.GBtb22.D97MwEmR3I4PqJJ1H-vhM-oECQAVl5Lk9fVKnU")
