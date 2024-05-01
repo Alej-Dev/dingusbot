@@ -137,4 +137,4 @@ async def gps():
     
     await channel.send(embed=stat)
 
-bot.run(TOKEN)
+bot.run(MTIwNTk2OTYwMjI0MTM2ODE2NA.G7NiUR.zaQS7UX4ZZeEPZ_6SoT0MtsAOyGUQzfrRZCDow)
